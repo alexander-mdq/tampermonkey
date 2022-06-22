@@ -4,5 +4,10 @@
 // @version 0.0.1
 // @description Puzzel admin page
 // @match https://admin.puzzel.com
-// @updateURL 
+// @updateURL https://github.com/alexander-mdq/tampermonkey/edit/main/puzzel_login.js
 // ==/UserScript==
+
+(function(){
+  'use strict';
+  alert("Hello! I am an alert box!!");
+})();
